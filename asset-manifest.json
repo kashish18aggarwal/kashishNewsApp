@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/kashishNewsApp/static/css/main.dc4d6ff2.css",
-    "main.js": "/kashishNewsApp/static/js/main.69e11ca3.js",
+    "main.js": "/kashishNewsApp/static/js/main.a37765a9.js",
     "static/js/592.d53f2e83.chunk.js": "/kashishNewsApp/static/js/592.d53f2e83.chunk.js",
     "static/media/loading.gif": "/kashishNewsApp/static/media/loading.0a02e0266641a918361f.gif",
     "index.html": "/kashishNewsApp/index.html",
     "main.dc4d6ff2.css.map": "/kashishNewsApp/static/css/main.dc4d6ff2.css.map",
-    "main.69e11ca3.js.map": "/kashishNewsApp/static/js/main.69e11ca3.js.map",
+    "main.a37765a9.js.map": "/kashishNewsApp/static/js/main.a37765a9.js.map",
     "592.d53f2e83.chunk.js.map": "/kashishNewsApp/static/js/592.d53f2e83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.69e11ca3.js"
+    "static/js/main.a37765a9.js"
   ]
 }
